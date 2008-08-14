@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;%= link_to "Edit", edit_${1:item}_path($1) %&gt;</string>
+	<key>name</key>
+	<string>edit link</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>elink</string>
+	<key>uuid</key>
+	<string>2BB8DF9B-51F4-44A4-AEC2-C5D823EB5284</string>
+</dict>
+</plist>

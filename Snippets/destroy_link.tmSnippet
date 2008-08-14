@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;%= link_to 'Destroy', $1, :confirm =&gt; 'Are you sure?', :method =&gt; :delete %&gt;</string>
+	<key>name</key>
+	<string>destroy link</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>dlink</string>
+	<key>uuid</key>
+	<string>F102140A-B8D7-4BA8-BC52-9B89970AD1FA</string>
+</dict>
+</plist>

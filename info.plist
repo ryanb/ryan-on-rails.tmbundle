@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>89356AFC-FCD7-4DD6-B3EC-5C2C631434FA</string>
+			<string>6E13CB59-EAFC-4D74-A5F9-4996E98658FB</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>6E13CB59-EAFC-4D74-A5F9-4996E98658FB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>BAA19D24-E612-47A0-9BB7-3764FEE90081</string>
+					<string>28FA1CD1-C613-418C-9421-42BECC55E934</string>
+					<string>6A1705DC-5891-42E9-A1FB-89890DFD055E</string>
+					<string>33CE8AAE-5A5E-453D-B828-977099F0A39A</string>
+					<string>41C73D7F-B5F6-4CF6-8F16-76A0BA791D9D</string>
+				</array>
+				<key>name</key>
+				<string>Class Definitions</string>
+			</dict>
+			<key>89356AFC-FCD7-4DD6-B3EC-5C2C631434FA</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>257E5E85-D4CB-4AB8-9345-5B929A568B7C</string>
+					<string>8EE90CEE-A8DB-4EF6-990E-5661E10E19E4</string>
+					<string>A0D30938-35F6-4547-8352-3D0FD1BA70B8</string>
+					<string>523BAF2C-9AB2-488A-8AB0-4D304A167B8D</string>
+					<string>------------------------------------</string>
+					<string>DCEB3D2D-3619-4F08-B17C-D4F3C5F0E19E</string>
+					<string>EBB81BEC-145F-4277-BC90-965F4E5CF25D</string>
+					<string>D47DB832-D0E0-4A91-9E2B-FAFB411D94ED</string>
+					<string>107FEA25-D17A-4D6B-AC5D-592D6620BC8F</string>
+					<string>------------------------------------</string>
+					<string>F77E9D26-292C-4C7F-96A6-E3FD2CF3C4A5</string>
+					<string>296ECA8A-1719-45A7-874A-ACD18CA0FF89</string>
+					<string>2BB8DF9B-51F4-44A4-AEC2-C5D823EB5284</string>
+					<string>F102140A-B8D7-4BA8-BC52-9B89970AD1FA</string>
+					<string>------------------------------------</string>
+					<string>DDD38863-89BF-48ED-B2AD-1EC6654E0D49</string>
+					<string>DC731AF0-5C3F-4828-BF76-DFB143B8808A</string>
+					<string>B20D332C-2954-4AE4-B88D-3FBAACB1D9EB</string>
+				</array>
+				<key>name</key>
+				<string>ERB</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Ryan on Rails</string>
+	<key>ordering</key>
+	<array>
+		<string>DCEB3D2D-3619-4F08-B17C-D4F3C5F0E19E</string>
+		<string>EBB81BEC-145F-4277-BC90-965F4E5CF25D</string>
+		<string>257E5E85-D4CB-4AB8-9345-5B929A568B7C</string>
+		<string>8EE90CEE-A8DB-4EF6-990E-5661E10E19E4</string>
+		<string>A0D30938-35F6-4547-8352-3D0FD1BA70B8</string>
+		<string>523BAF2C-9AB2-488A-8AB0-4D304A167B8D</string>
+		<string>D47DB832-D0E0-4A91-9E2B-FAFB411D94ED</string>
+		<string>107FEA25-D17A-4D6B-AC5D-592D6620BC8F</string>
+		<string>296ECA8A-1719-45A7-874A-ACD18CA0FF89</string>
+		<string>2BB8DF9B-51F4-44A4-AEC2-C5D823EB5284</string>
+		<string>F102140A-B8D7-4BA8-BC52-9B89970AD1FA</string>
+		<string>F77E9D26-292C-4C7F-96A6-E3FD2CF3C4A5</string>
+		<string>DDD38863-89BF-48ED-B2AD-1EC6654E0D49</string>
+		<string>DC731AF0-5C3F-4828-BF76-DFB143B8808A</string>
+		<string>B20D332C-2954-4AE4-B88D-3FBAACB1D9EB</string>
+		<string>BAA19D24-E612-47A0-9BB7-3764FEE90081</string>
+		<string>28FA1CD1-C613-418C-9421-42BECC55E934</string>
+		<string>6A1705DC-5891-42E9-A1FB-89890DFD055E</string>
+		<string>33CE8AAE-5A5E-453D-B828-977099F0A39A</string>
+		<string>41C73D7F-B5F6-4CF6-8F16-76A0BA791D9D</string>
+	</array>
+	<key>uuid</key>
+	<string>380F1A5F-3BE4-4360-A4E9-774A8007A966</string>
+</dict>
+</plist>

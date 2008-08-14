@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;% form_for $1 do |f| %&gt;
+	$0
+	&lt;p class="button"&gt;&lt;%= f.submit %&gt;&lt;/p&gt;
+&lt;% end %&gt;
+</string>
+	<key>name</key>
+	<string>form_for</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>DDD38863-89BF-48ED-B2AD-1EC6654E0D49</string>
+</dict>
+</plist>

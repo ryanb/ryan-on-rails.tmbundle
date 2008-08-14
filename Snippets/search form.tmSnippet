@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;% form_tag ${1:items}_path, :method =&gt; 'get' do %&gt;
+	&lt;p&gt;
+		&lt;%= text_field_tag :${2:search}, params[:$2] %&gt;
+		&lt;%= submit_tag "Search", :name =&gt; nil %&gt;
+	&lt;/p&gt;
+&lt;% end %&gt;
+</string>
+	<key>name</key>
+	<string>search form</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>search</string>
+	<key>uuid</key>
+	<string>B20D332C-2954-4AE4-B88D-3FBAACB1D9EB</string>
+</dict>
+</plist>
